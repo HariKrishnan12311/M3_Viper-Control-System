@@ -14,4 +14,9 @@ A wiper speed control system for an automobile wiper regulates the operating spe
 
 Code Grade
 
-https://api.codiga.io/project/33376/status/svg
+![Code Quality Score](https://api.codiga.io/project/33376/status/svg)
+
+
+Code Quality Score
+
+![Code Quality Score](https://api.codiga.io/project/32980/score/svg)
