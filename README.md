@@ -12,3 +12,6 @@ Traditional windshield wiper speed constantly varies according to time and vehic
 A wiper speed control system for an automobile wiper regulates the operating speed of a wiper in accordance with the amount of rain falling on the windshield. This is a very much essential component in each automobile as it avoids the risk of accidents during rainy conditions.
 
 
+Code Grade
+
+https://api.codiga.io/project/33376/status/svg
