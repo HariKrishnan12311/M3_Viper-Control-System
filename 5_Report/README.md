@@ -77,3 +77,8 @@ It is implemented with the help of STM32 with the desired operation of turning o
 | LR_05 |	Button pressed again for two seconds |Turn Off all LEDs |	Implemented |
 
 ![flow drawio](https://user-images.githubusercontent.com/68462123/167984507-39e7a274-725d-4490-9e44-343fc49e0197.png)
+
+
+The figure bellow shows test plan and output
+![QEMU](https://user-images.githubusercontent.com/68462123/167822701-48fdfbe6-8b64-4430-ba32-4b9a2077d9b6.png)
+
